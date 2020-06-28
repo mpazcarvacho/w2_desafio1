@@ -1,5 +1,7 @@
 --Semana2 - Desafío 1 - Modelamiento de datos
 
+--CASO1
+
 CREATE DATABASE s1d1;
 
 \c s1d1
